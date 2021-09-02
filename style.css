@@ -1,0 +1,32 @@
+.top-heading{
+    color: gray;
+}
+hr{
+    border: 1px solid rgb(185, 184, 184);
+}
+.final{
+    border-top: 2px solid black;
+    margin-top: 10px;
+    padding: 5px;
+}
+
+.common-btn{
+    background-color: white;
+    padding: 5px;
+    border: 1px solid gray;
+    border-radius: 5px;
+}
+.common-btn:hover{
+    background-color: black;
+    color: white;
+}
+
+.footer-heading{
+    border-top: 2px solid rgb(219, 215, 215);
+    padding-top: 10px;
+}  
+
+#errorPromo{
+    color: red;
+    display: none;
+}
